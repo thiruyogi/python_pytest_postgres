@@ -12,5 +12,5 @@ How to Run:
 3. Execute 'pip3 install -r requiremnets.txt'. This will install all the dependencies.
 4. Update the 'configs/default_config.ini' file with necessary details about the postgres server.
 5. Execute 'pytest' for running all the test files.
-6. Excute 'pytest <test file path> for running a specific file.
+6. Excute 'pytest <test_file_path> for running a specific file.
 7. Test Execution HTML report will be genrated under reports folder.
